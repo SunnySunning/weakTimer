@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name = 'weakTimer'
+s.name = 'iOSWeakTimer'
 s.version = '1.0.1'
 s.license = 'MIT'
 s.summary = 'NSTimer weak refrences'
